@@ -14,4 +14,4 @@ deploy:
   skip_cleanup: true
   github_token: $github_token
   on:
-    branch: master
+    branch: main
